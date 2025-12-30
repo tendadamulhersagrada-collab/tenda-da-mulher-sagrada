@@ -1,0 +1,9 @@
+
+{
+  "name": "Tenda da Mulher Sagrada",
+  "description": "Um refúgio digital dedicado ao Sagrado Feminino, oferecendo sabedoria ancestral, cursos, workshops e um espaço de cura e conexão para mulheres.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
